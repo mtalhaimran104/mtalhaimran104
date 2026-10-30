@@ -1,4 +1,4 @@
-# Hi, I'm Talha Imran 👋
+# Hi, I'm Talha Imran
 
 BS IT student at the Islamia University of Bahawalpur, focused on machine learning and building practical AI applications.
 
